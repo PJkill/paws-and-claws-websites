@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> How to Help Paws & Claws Animal Rescue</title>
+</head>
+<body>
+    <header>
+        <h1>Paws & Claws Animal Rescue</h1>
+        <p>Giving Hope a Home</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="services.html">Meet the Pets</a></li>
+            <li><a href="enquiry.html">How to Help</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Make a Difference Today</h2>
+            <p>There are many ways you can help us continue our life-saving work.</p>
+        </section>
+
+        <section>
+            <h3>Become a Volunteer</h3>
+            <img src="images/actions/volunteer.jpg" alt="A volunteer walking a rescue dog in the park" width="350">
+            <p>Join our team of dedicated volunteers! Help with:</p>
+            <ul>
+                <li>Animal care and socialization</li>
+                <li>Event organization and fundraising</li>
+                <li>Transportation and administrative tasks</li>
+                <li>Facility maintenance and cleaning</li>
+            </ul>
+            <a href="#volunteer-form">Apply to Volunteer</a>
+        </section>
+
+        <section>
+            <h3>Open Your Home as a Foster</h3>
+            <img src="images/actions/foster.jpg" alt="A foster pet in a cozy home environment" width="300">
+            <p>Fostering saves lives! We provide all supplies and medical care,you just provide the love and temporary home.</p>
+            <p>Foster homes are especially needed for:</p>
+            <ul>
+                <li>Kittens and puppies</li>
+                <li>Animals recovering from surgery</li>
+                <li>Pets needing extra behavioural training</li>
+                <li>Senior animals requiring special care</li>
+            </ul>
+            <a href="#foster-form">Apply to Foster</a>
+        </section>
+
+        <section>
+            <h3>Support Our Mission</h3>
+            <img src="images/actions/donate.jpg" alt="A donation drive event for animal rescue" width="300">
+            <p>Your financial support helps us provide:</p>
+            <ul>
+                <li>Veterinary care and vaccinations</li>
+                <li>Food and supplies</li>
+                <li>Shelter maintenance and improvements</li>
+                <li>Emergency medical treatments</li>
+            </ul>
+            <a href="#donate-form">Make a Donation</a>
+        </section>
+
+        <!-- Forms Section -->
+        <section>
+            <h2>Get Started</h2>
+            
+            <article id="volunteer-form">
+                <h3>Volunteer Application</h3>
+                <form>
+                    <p>Full Name: <input type="text" name="volunteer_name" required></p>
+                    <p>Email: <input type="email" name="volunteer_email" required></p>
+                    <p>Phone: <input type="tel" name="volunteer_phone"></p>
+                    <p>Areas of Interest:
+                        <select name="volunteer_interest">
+                            <option value="animal_care">Animal Care</option>
+                            <option value="events">Events/Fundraising</option>
+                            <option value="admin">Administrative</option>
+                            <option value="transport">Transportation</option>
+                        </select>
+                    </p>
+                    <p>Previous Experience: <textarea name="volunteer_experience"></textarea></p>
+                    <p><input type="submit" value="Submit Volunteer Application"></p>
+                </form>
+            </article>
+
+            <article id="foster-form">
+                <h3>Foster Application</h3>
+                <form>
+                    <p>Full Name: <input type="text" name="foster_name" required></p>
+                    <p>Email: <input type="email" name="foster_email" required></p>
+                    <p>Phone: <input type="tel" name="foster_phone" required></p>
+                    <p>Type of Home: 
+                        <select name="home_type">
+                            <option value="house">House</option>
+                            <option value="apartment">Apartment</option>
+                            <option value="condo">Condo</option>
+                        </select>
+                    </p>
+                    <p>Other Pets: <input type="text" name="other_pets"></p>
+                    <p>Experience with Animals: <textarea name="foster_experience"></textarea></p>
+                    <p><input type="submit" value="Submit Foster Application"></p>
+                </form>
+            </article>
+
+            <article id="donate-form">
+                <h3>Donation Form</h3>
+                <form>
+                    <p>Full Name: <input type="text" name="donor_name" required></p>
+                    <p>Email: <input type="email" name="donor_email" required></p>
+                    <p>Donation Amount: 
+                        <select name="donation_amount">
+                            <option value="500">R500</option>
+                            <option value="700">R700</option>
+                            <option value="100">R100</option>
+                            <option value="other">Other Amount</option>
+                        </select>
+                    </p>
+                    <p>Message (optional): <textarea name="donation_message"></textarea></p>
+                    <p><input type="submit" value="Donate Now"></p>
+                </form>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Paws & Claws Animal Rescue. All rights reserved.</p>
+        <p>123 Rescue Way, Anytown, AT 12345 | 0736685488-PAWS | info@pawsandclaws.org</p>
+    </footer>
+</body>
+</html>
