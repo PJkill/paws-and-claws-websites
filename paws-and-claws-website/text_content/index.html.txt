@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paws & Claws Animal Rescue | Home</title>
-    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <!-- Header Section -->
@@ -31,19 +30,19 @@
         <section>
             <img src="images/hero/home-hero.jpg" alt="Happy dog and cat together at our rescue sanctuary" width="800">
             <h2>Welcome to Paws & Claws Animal Rescue</h2>
-            <p>We are dedicated to rescuing, rehabilitating, and rehoming our community's abandoned and neglected animals. Every pet deserves another opportunity at a happy life and a welcoming home.</p>
+            <p>We are dedicated to rescuing, rehabilitating, and also rehoming our community's abandoned and neglected animals.  Every pet deserves another opportunity at a happy life and a welcoming home.</p>
         </section>
 
         <!-- Featured Pets Section -->
         <section>
             <h2>Featured Pets Ready for Adoption</h2>
-            <p>These featured pets are ready for adoption. These are just a few of our wonderful friends looking for their forever homes. Could you be the one to help them find one?</p>
-            
+            <p>This following featured Pets are Ready for Adoption
+These are just a few of our wonderful friends looking for their forever homes. Could it be you to help them find one?</p>
             <!-- Pet 1: Bella -->
             <div>
                 <img src="images/pets/bella.jpg" alt="Bella, 2 Years, Siberian cat" width="300">
                 <h3>Bella, 2 Years</h3>
-                <p>Bella is a playful cat who can be grumpy at times but when grumpy she can do some funny things. She loves sleeping and cuddles on the couch. She is great with children and other dogs or cats.</p>
+                <p>Bella is a playful and grumpy at times but when grumpy she can do some funny things, she loves sleeping and cuddles on the couch. She is great with children and other dogs or cats</p>
                 <a href="services.html#bella">View Full Profile</a>
             </div>
 
@@ -57,10 +56,11 @@
 
             <!-- Pet 3: Rex -->
             <div>
-                <img src="images/pets/rex.jpg" alt="Rex, 1 Year, English Cocker Spaniel" width="300">
+                <img src="images/pets/rex.jpg" alt="Rex, 1 Years, The English Cocker Spaniel" width="300">>
                 <h3>Luna, 1 Year</h3>
-                <p>Luna is a smart and loyal companion eager to please. He is looking for an active family who can continue his training.</p>
-                <a href="services.html#rex">View Full Profile</a>
+                <p>Rex is a smart and loyal companion eager to please. He is looking for an active family who can continue his training.
+</p>
+                <a href="services.html#luna">View Full Profile</a>
             </div>
         </section>
 
@@ -72,7 +72,12 @@
             <div>
                 <img src="images/actions/volunteer.jpg" alt="A volunteer walking a rescue dog in the park" width="300">
                 <h3>Volunteer</h3>
-                <p>Become a Volunteer. Join our team of dedicated volunteers! Help with animal care and socialization, event organization and fundraising, transportation and administrative tasks.</p>
+                <p>Become a Volunteer
+Join our team of dedicated volunteers! Help with:
+* Animal care and socialization
+* Event organization and fundraising
+* Transportation and administrative tasks
+</p>
             </div>
 
             <div>
