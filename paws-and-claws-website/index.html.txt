@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paws & Claws Animal Rescue | Home</title>
-	<link rel="stylesheet" href="css/style.css">  <!-- ADD THIS LINE -->
 </head>
 <body>
     <!-- Header Section -->
