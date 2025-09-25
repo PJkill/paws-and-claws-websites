@@ -10,32 +10,20 @@ This website was created for Paws & Claws Animal Rescue, a non-profit organizati
 - *Date:* 2025/08/27
 
 ## Project Structure
-## Part 2
+## Part 2: Responsive Design Complete
 
-### 📋 Project Overview
-This is Part 2 of the Paws and Claws website, focusing on implementing comprehensive CSS styling and responsive design using a mobile-first approach.
+### Changes Made
+- Added professional CSS styling with responsive design
+- Implemented mobile-first approach with media queries
+- Tested on desktop, tablet, and mobile devices
+- Ensured consistent styling across all pages
 
-### 🎯 Objectives Achieved
-- ✅ Created external CSS file with professional styling
-- ✅ Implemented responsive design for all device sizes
-- ✅ Ensured consistent user experience across all pages
-- ✅ Added modern design elements and animations
-- ✅ Tested cross-browser compatibility
+### Responsive Breakpoints
+- *Mobile:* < 480px (single column)
+- *Tablet:* 480px - 768px (2 columns)
+- *Desktop:* 768px+ (3 columns)
 
-### 🛠 Technical Implementation
-
-#### CSS Features Included
-- *CSS Custom Properties* for consistent theming
-- *Flexbox & CSS Grid* for modern layouts
-- *Mobile-First Responsive Design* with media queries
-- *Smooth Animations & Transitions* for enhanced UX
-- *Accessibility Features* for better usability
-
-#### Responsive Breakpoints
-| Device | Breakpoint | Layout Features |
-|--------|------------|-----------------|
-| Mobile | < 480px | Single column, stacked navigation |
-| Tablet | 480px - 768px | 2-column grid, compact navigation |
-| Desktop | 768px+ | 3-column grid, horizontal navigation |
-
-#### File Structure
+### Evidence
+![Desktop View](screenshots/desktop-home.jpg)
+![Tablet View](screenshots/tablet-home.jpg)
+![Mobile View](screenshots/mobile-home.jpg)
