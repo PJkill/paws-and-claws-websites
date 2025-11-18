@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pjkill.github.io/paws-and-claws-websites/sitemap.xml
